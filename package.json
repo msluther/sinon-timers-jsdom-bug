@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/msluther/sinon-timers-jsdom-bug/issues"
   },
-  "homepage": "https://github.com/msluther/sinon-timers-jsdom-bug#readme"
+  "homepage": "https://github.com/msluther/sinon-timers-jsdom-bug#readme",
+  "devDependencies": {
+    "global-jsdom": "^8.4.0",
+    "sinon": "^13.0.1"
+  }
 }
