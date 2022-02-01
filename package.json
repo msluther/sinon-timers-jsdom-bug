@@ -1,0 +1,19 @@
+{
+  "name": "sinon-timers-jsdom-bug",
+  "version": "1.0.0",
+  "description": "Bug sample repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msluther/sinon-timers-jsdom-bug.git"
+  },
+  "author": "msluther",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msluther/sinon-timers-jsdom-bug/issues"
+  },
+  "homepage": "https://github.com/msluther/sinon-timers-jsdom-bug#readme"
+}
